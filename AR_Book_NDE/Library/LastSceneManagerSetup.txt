@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/_PROJECT/Scenes/AR_Book_NDE.unity
+- path: Assets/Hologram Shader/Demo Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
