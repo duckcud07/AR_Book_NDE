@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Hologram Shader/Demo Scene.unity
+- path: Assets/_PROJECT/Scenes/Noom/Mainscenetest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

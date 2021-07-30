@@ -81,19 +81,19 @@ namespace ASPageView
             }
             else
             {
-                if (pageIndicator.transform.FindChild("PageIndicatorFullCircle") == null)
+                if (pageIndicator.transform.Find("PageIndicatorFullCircle") == null)
                 {
                     _InstantiatePageIndicatorItem("PageIndicatorFullCircle");
                 }
-                while (pageIndicator.transform.childCount > _pageViewChildren.Count && pageIndicator.transform.FindChild("PageIndicatorEmptyCircle") != null)
+                while (pageIndicator.transform.childCount > _pageViewChildren.Count && pageIndicator.transform.Find("PageIndicatorEmptyCircle") != null)
                 {
-                    GameObject.DestroyImmediate(pageIndicator.transform.FindChild("PageIndicatorEmptyCircle").gameObject);
+                    GameObject.DestroyImmediate(pageIndicator.transform.Find("PageIndicatorEmptyCircle").gameObject);
                 }
                 while (pageIndicator.transform.childCount < _pageViewChildren.Count)
                 {
                     _InstantiatePageIndicatorItem("PageIndicatorEmptyCircle");
                 }
-                pageIndicator.transform.FindChild("PageIndicatorFullCircle").SetSiblingIndex(_currentPageIndex);
+                pageIndicator.transform.Find("PageIndicatorFullCircle").SetSiblingIndex(_currentPageIndex);
             }
         }
 

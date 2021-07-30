@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="NDE-book-lay-02-13" size="1.000000 1.413376" />
+    <ImageTarget name="NDE-book-lay-02-12" size="1.000000 0.706973" />
+    <ImageTarget name="NDE-book-lay-02-11" size="1.000000 0.706973" />
+    <ImageTarget name="NDE-book-lay-02-10" size="1.000000 0.706973" />
+    <ImageTarget name="NDE-book-lay-02-9" size="1.000000 0.706973" />
+    <ImageTarget name="NDE-book-lay-02-8" size="1.000000 0.706973" />
+    <ImageTarget name="NDE-book-lay-02-7" size="1.000000 0.706973" />
+    <ImageTarget name="NDE-book-lay-02-6" size="1.000000 0.706973" />
+    <ImageTarget name="NDE-book-lay-02-5" size="1.000000 0.706973" />
+    <ImageTarget name="NDE-book-lay-02-4" size="1.000000 0.706973" />
+    <ImageTarget name="NDE-book-lay-02-3" size="1.000000 0.706973" />
+    <ImageTarget name="NDE-book-lay-02-2" size="1.000000 0.706973" />
+    <ImageTarget name="NDE-book-lay-02-1" size="1.000000 1.413376" />
+  </Tracking>
+</QCARConfig>
