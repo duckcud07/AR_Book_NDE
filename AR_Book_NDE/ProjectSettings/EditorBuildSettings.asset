@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_PROJECT/Scenes/Noom/_testScene.unity
+    guid: 7f21eb267395b304ab5c65369fe73fdd
   m_configObjects: {}
