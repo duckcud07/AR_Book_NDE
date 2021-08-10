@@ -7,7 +7,8 @@ public class CallPage : MonoBehaviour
 
     public void OpenUrl()
     {
-        Application.OpenURL( "tel://5555551212" );
+        Application.OpenURL( "tel://0995531654" );
+        //Application.OpenURL( "tel:+0995531654" );
     }
     
 }

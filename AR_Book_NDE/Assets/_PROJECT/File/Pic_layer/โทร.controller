@@ -10,8 +10,7 @@ AnimatorState:
   m_Name: Call_PopUp
   m_Speed: 1
   m_CycleOffset: 0
-  m_Transitions:
-  - {fileID: -1384597495954932454}
+  m_Transitions: []
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -65,9 +64,6 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: -6566384821325977482}
     m_Position: {x: 20, y: 210, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: -6238109268448865186}
-    m_Position: {x: 60, y: 320, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
