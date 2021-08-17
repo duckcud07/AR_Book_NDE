@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_PROJECT/Scenes/Noom/_testScene.unity
-    guid: 7f21eb267395b304ab5c65369fe73fdd
+    path: Assets/_PROJECT/Scenes/Noom/Mainscenetest.unity
+    guid: ad05af64583548f4584de0e58a3acf84
   m_configObjects: {}
