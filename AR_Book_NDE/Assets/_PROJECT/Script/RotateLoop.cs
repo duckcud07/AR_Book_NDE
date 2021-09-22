@@ -9,7 +9,7 @@ public class RotateLoop : MonoBehaviour
 
      void Start()
      {
-         iTween.RotateTo(this.gameObject, iTween.Hash("z", 200, "time", 1.5f, "easetype", easeType, "looptype", loopType));
+         iTween.RotateTo(this.gameObject, iTween.Hash("z", 1000, "time", 3.5f, "easetype", easeType, "looptype", loopType));
      }
 
     // void Update()
